@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Подготовить отчёт по модулю 5",
+    "description": "Собрать четыре задания в один документ.",
+    "isCompleted": false
+  },
+  {
+    "title": "Проверить фотогалерею",
+    "description": "Проверить экспорт фотографий в Google Photos.",
+    "isCompleted": true
+  },
+  {
+    "title": "Подготовиться к защите",
+    "description": "Повторить работу Room, JSON и DataStore.",
+    "isCompleted": false
+  }
+]
